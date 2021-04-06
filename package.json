@@ -23,10 +23,8 @@
         "lint": "softvisio-cli lint"
     },
     "dependencies": {
+        "@softvisio/globals": "^1.0.0",
         "playwright-core": "^1.10.0"
-    },
-    "peerDependencies": {
-        "@softvisio/core": "^2.15.3"
     },
     "engines": {
         "node": ">=15.7.0",
