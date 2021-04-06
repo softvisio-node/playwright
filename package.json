@@ -16,9 +16,6 @@
     "exports": {
         ".": "./lib/index.js"
     },
-    "bin": {
-        "playwright": "./node_modules/playwright-core/lib/cli/cli.js"
-    },
     "scripts": {
         "lint": "softvisio-cli lint"
     },
