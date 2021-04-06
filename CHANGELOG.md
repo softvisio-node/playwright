@@ -1,3 +1,9 @@
+## 1.0.2 (2021-04-06)
+
+### Raw commits log
+
+-   @softvisio/globals added;
+
 ## 1.0.1 (2021-04-06)
 
 ### Raw commits log
