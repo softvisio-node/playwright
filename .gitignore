@@ -1,0 +1,8 @@
+# common
+/data/
+/wiki/
+/.config.local.yaml
+/.config.*.local.yaml
+
+# node
+/node_modules/

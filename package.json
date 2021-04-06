@@ -1,0 +1,35 @@
+{
+    "name": "@softvisio/playwright",
+    "version": "0.0.0",
+    "description": "Playwright wrapper",
+    "homepage": "https://bitbucket.org/softvisio/softvisio-playwright",
+    "bugs": {
+        "url": "https://bitbucket.org/softvisio/softvisio-playwright/issues",
+        "email": "zdm@softvisio.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/softvisio/softvisio-playwright.git"
+    },
+    "license": "ISC",
+    "author": "<zdm@softvisio.net>",
+    "exports": {
+        ".": "./lib/index.js"
+    },
+    "scripts": {
+        "lint": "softvisio-cli lint"
+    },
+    "dependencies": {
+        "playwright-core": "^1.10.0"
+    },
+    "peerDependencies": {
+        "@softvisio/core": "^2.15.3"
+    },
+    "engines": {
+        "node": ">=15.7.0",
+        "npm": ">=7.4.3"
+    },
+    "lint": [
+        "**"
+    ]
+}
