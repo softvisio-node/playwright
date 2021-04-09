@@ -1,15 +1,13 @@
-#!/usr/bin/env -S docker stack deploy --with-registry-auth pgsql -c
+#!/usr/bin/env -S docker stack deploy --with-registry-auth playwright -c
 
 version: "3.9"
 
 # NOTE deploy
-# docker stack deploy --with-registry-auth -c docker-stack.yaml pgsql
-# PGSQL_POSTGRES_PASSWORD=1 docker stack deploy --with-registry-auth -c docker-stack.yaml pgsql
-# docker node update --label-add pgsql=true <NODE-NAME>
+# docker stack deploy --with-registry-auth -c docker-stack.yaml playwright
 
 services:
-  pgsql:
-    image: softvisio/pgsql
+  playwright:
+    image: softvisio/playwright
     init: true
     stop_grace_period: 5m
 
@@ -17,29 +15,17 @@ services:
       replicas: 1
       placement:
         max_replicas_per_node: 1
-        constraints:
-          - "node.labels.pgsql == true"
-
-    environment:
-      PGSQL_POSTGRES_PASSWORD: $PGSQL_POSTGRES_PASSWORD
 
     networks: [private]
 
-    ports:
-      - { published: 5432, target: 5432 }
-
     volumes:
       - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
-      - { type: volume, source: pgsql, target: /var/lib/pgsql }
 
     build:
       context: .
 
 networks:
   private: { external: true }
-
-volumes:
-  pgsql: { name: pgsql }
 
 x-build:
   default_tag: latest
