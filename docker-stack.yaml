@@ -18,7 +18,7 @@ services:
       labels:
         nginx.server-name: playwright.devel
         nginx.client-max-body-size: 10m
-        nginx.cache: false
+        nginx.cache: "false"
 
     networks: [private]
 
