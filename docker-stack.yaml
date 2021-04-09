@@ -15,11 +15,15 @@ services:
       replicas: 1
       placement:
         max_replicas_per_node: 1
+      labels:
+        nginx.server-name: playwright.devel
+        nginx.client-max-body-size: 10m
+        nginx.cache: false
 
     networks: [private]
 
     ports:
-      - { published: 8080, target: 8080 }
+      - { published: 81, target: 80 }
 
     volumes:
       - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
