@@ -1,5 +1,7 @@
 FROM softvisio/core
 
+HEALTHCHECK NONE
+
 RUN \
     # setup node build environment
     curl -fsSL https://bitbucket.org/softvisio/scripts/raw/main/env-build-node.sh | /bin/bash -s -- setup \
