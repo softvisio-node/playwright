@@ -1,3 +1,11 @@
+## 1.1.0 (2021-04-09)
+
+### Raw commits log
+
+-   docker files added;
+-   browser isHeadless property added;
+-   small improvements;
+
 ## 1.0.3 (2021-04-06)
 
 ### Raw commits log
