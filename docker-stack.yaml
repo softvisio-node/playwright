@@ -18,6 +18,9 @@ services:
 
     networks: [private]
 
+    ports:
+      - { published: 8080, target: 8080 }
+
     volumes:
       - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
 
