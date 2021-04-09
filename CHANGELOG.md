@@ -1,3 +1,9 @@
+## 1.2.0 (2021-04-09)
+
+### Raw commits log
+
+-   parse proxy from string;
+
 ## 1.1.2 (2021-04-09)
 
 ### Raw commits log
