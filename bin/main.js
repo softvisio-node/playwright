@@ -1,17 +1,29 @@
 #!/usr/bin/env node
 
+const ws = require( "ws" );
+
+ws.Server = class extends ws.Server {
+    constructor ( options = {}, callback ) {
+        options.host = "0.0.0.0";
+
+        options.path = "/";
+
+        super( options, callback );
+    }
+};
+
 const playwright = require( "@softvisio/playwright" );
 
-var SERVER_CHROMIUM;
+const DEFAULT_PORT = 8080;
 
 ( async () => {
-    SERVER_CHROMIUM = await playwright.chromium.launchServer( {
+    await playwright.chromium.launchServer( {
         "headless": true,
-        "port": 8080,
+        "port": DEFAULT_PORT,
         "handleSIGHUP": true,
         "handleSIGINT": true,
         "handleSIGTERM": true,
     } );
 
-    console.log( "Chromium: " + SERVER_CHROMIUM.wsEndpoint() );
+    console.log( "Chromium: ws://0.0.0.0:" + DEFAULT_PORT );
 } )();
