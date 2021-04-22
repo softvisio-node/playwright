@@ -1,3 +1,9 @@
+## 1.3.0 (2021-04-22)
+
+### Raw commits log
+
+-   softvisio proxy integrated;
+
 ## 1.2.0 (2021-04-09)
 
 ### Raw commits log
