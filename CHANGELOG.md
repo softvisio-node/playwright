@@ -1,3 +1,9 @@
+## 1.3.1 (2021-04-23)
+
+### Raw commits log
+
+-   global methods updated;
+
 ## 1.3.0 (2021-04-22)
 
 ### Raw commits log
