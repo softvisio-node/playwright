@@ -27,7 +27,7 @@
         "playwright-core": "^1.10.0"
     },
     "peerDependencies": {
-        "@softvisio/core": "^2.17.1"
+        "@softvisio/core": "^3.0.0-alpha.3"
     },
     "engines": {
         "node": ">=16.0.0",
