@@ -1,26 +1,23 @@
 #!/usr/bin/env node
 
-patch();
+import ws from "ws";
+import playwright from "#lib/playwright";
 
 const CHROME_PORT = 80;
 
-const playwright = require( "@softvisio/playwright" );
+patch();
 
-( async () => {
-    await playwright.chromium.launchServer( {
-        "headless": true,
-        "port": CHROME_PORT,
-        "handleSIGHUP": true,
-        "handleSIGINT": true,
-        "handleSIGTERM": true,
-    } );
+await playwright.chromium.launchServer( {
+    "headless": true,
+    "port": CHROME_PORT,
+    "handleSIGHUP": true,
+    "handleSIGINT": true,
+    "handleSIGTERM": true,
+} );
 
-    console.log( "Chromium: ws://0.0.0.0:" + CHROME_PORT + "/chrome" );
-} )();
+console.log( "Chromium: ws://0.0.0.0:" + CHROME_PORT + "/chrome" );
 
 function patch () {
-    const ws = require( "ws" );
-
     ws.Server = class extends ws.Server {
         constructor ( options = {}, callback ) {
             options.host = "0.0.0.0";
