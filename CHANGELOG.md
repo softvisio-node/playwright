@@ -1,3 +1,9 @@
+## 2.0.2 (2021-05-02)
+
+### Raw commits log
+
+-   ws server patch;
+
 ## 2.0.1 (2021-05-02)
 
 ### Raw commits log
