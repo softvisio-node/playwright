@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import ws from "ws";
-import playwright from "#lib/playwright";
+import playwright from "#index";
 
 const CHROME_PORT = 80;
 
