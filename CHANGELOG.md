@@ -1,3 +1,10 @@
+## 2.0.0 (2021-05-02)
+
+### Raw commits log
+
+-   deps updated;
+-   ported to ESM;
+
 ## 1.3.1 (2021-04-23)
 
 ### Raw commits log
