@@ -1,11 +1,10 @@
 #!/usr/bin/env node
 
-import ws from "ws";
-import playwright from "#index";
-
 const CHROME_PORT = 80;
 
-patch();
+await patch();
+
+const { "default": playwright } = await import( "#index" );
 
 await playwright.chromium.launchServer( {
     "headless": true,
@@ -17,11 +16,12 @@ await playwright.chromium.launchServer( {
 
 console.log( "Chromium: ws://0.0.0.0:" + CHROME_PORT + "/chrome" );
 
-function patch () {
+async function patch () {
+    const { "default": ws } = await import( "ws" );
+
     ws.Server = class extends ws.Server {
         constructor ( options = {}, callback ) {
             options.host = "0.0.0.0";
-
             options.path = "/chrome";
 
             super( options, callback );
