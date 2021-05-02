@@ -1,3 +1,9 @@
+## 2.0.1 (2021-05-02)
+
+### Raw commits log
+
+-   index import fixed;
+
 ## 2.0.0 (2021-05-02)
 
 ### Raw commits log
