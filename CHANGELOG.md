@@ -1,3 +1,9 @@
+## 2.2.0 (2021-05-11)
+
+### Raw commits log
+
+-   updated to playwright v1.11.0;
+
 ## 2.1.1 (2021-05-09)
 
 ### Raw commits log
