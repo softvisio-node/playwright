@@ -23,9 +23,6 @@
     "exports": {
         ".": "./lib/index.js"
     },
-    "scripts": {
-        "lint": "softvisio-cli lint"
-    },
     "dependencies": {
         "playwright-core": "^1.10.0"
     },
