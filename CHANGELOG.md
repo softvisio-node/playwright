@@ -1,3 +1,10 @@
+## 2.2.3 (2021-06-05)
+
+**Raw commits log**
+
+-   moved to github;
+-   changelog updated;
+
 ## 2.2.2 (2021-06-01)
 
 **Raw commits log**
