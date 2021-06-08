@@ -1,119 +1,121 @@
-## 2.2.3 (2021-06-05)
+# Changelog
 
-**Raw commits log**
+### 2.2.3 (2021-06-05)
+
+Changed:
 
 -   moved to github;
 -   changelog updated;
 
-## 2.2.2 (2021-06-01)
+### 2.2.2 (2021-06-01)
 
-**Raw commits log**
+Changed:
 
 -   lint config removed;
 
-## 2.2.1 (2021-05-19)
+### 2.2.1 (2021-05-19)
 
-**Raw commits log**
+Changed:
 
 -   lint script removed;
 
-## 2.2.0 (2021-05-11)
+### 2.2.0 (2021-05-11)
 
-**Raw commits log**
+Changed:
 
 -   updated to playwright v1.11.0;
 
-## 2.1.1 (2021-05-09)
+### 2.1.1 (2021-05-09)
 
-**Raw commits log**
-
--   imports updated;
-
-## 2.1.0 (2021-05-09)
-
-**Raw commits log**
+Changed:
 
 -   imports updated;
 
-## 2.0.2 (2021-05-02)
+### 2.1.0 (2021-05-09)
 
-**Raw commits log**
+Changed:
+
+-   imports updated;
+
+### 2.0.2 (2021-05-02)
+
+Changed:
 
 -   ws server patch;
 
-## 2.0.1 (2021-05-02)
+### 2.0.1 (2021-05-02)
 
-**Raw commits log**
+Changed:
 
 -   index import fixed;
 
-## 2.0.0 (2021-05-02)
+### 2.0.0 (2021-05-02)
 
-**Raw commits log**
+Changed:
 
 -   deps updated;
 -   ported to ESM;
 
-## 1.3.1 (2021-04-23)
+### 1.3.1 (2021-04-23)
 
-**Raw commits log**
+Changed:
 
 -   global methods updated;
 
-## 1.3.0 (2021-04-22)
+### 1.3.0 (2021-04-22)
 
-**Raw commits log**
+Changed:
 
 -   softvisio proxy integrated;
 
-## 1.2.0 (2021-04-09)
+### 1.2.0 (2021-04-09)
 
-**Raw commits log**
+Changed:
 
 -   parse proxy from string;
 
-## 1.1.2 (2021-04-09)
+### 1.1.2 (2021-04-09)
 
-**Raw commits log**
+Changed:
 
 -   devices methods updated;
 -   docker stack fixed;
 
-## 1.1.1 (2021-04-09)
+### 1.1.1 (2021-04-09)
 
-**Raw commits log**
+Changed:
 
 -   listen port 80;
 -   docker healthcheck disabled;
 
-## 1.1.0 (2021-04-09)
+### 1.1.0 (2021-04-09)
 
-**Raw commits log**
+Changed:
 
 -   docker files added;
 -   browser isHeadless property added;
 -   small improvements;
 
-## 1.0.3 (2021-04-06)
+### 1.0.3 (2021-04-06)
 
-**Raw commits log**
+Changed:
 
 -   bin script removed;
 
-## 1.0.2 (2021-04-06)
+### 1.0.2 (2021-04-06)
 
-**Raw commits log**
+Changed:
 
 -   @softvisio/globals added;
 
-## 1.0.1 (2021-04-06)
+### 1.0.1 (2021-04-06)
 
-**Raw commits log**
+Changed:
 
 -   re-export playwright script;
 
-## 1.0.0 (2021-04-06)
+### 1.0.0 (2021-04-06)
 
-**Raw commits log**
+Changed:
 
 -   init;
