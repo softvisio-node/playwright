@@ -1,5 +1,18 @@
 # Changelog
 
+### 2.3.0-alpha.0 (2021-06-13)
+
+Changed:
+
+-   @softvisio/core v4;
+-   changelog updated;
+
+Added:
+
+Removed:
+
+Fixed:
+
 ### 2.2.3 (2021-06-05)
 
 Changed:
