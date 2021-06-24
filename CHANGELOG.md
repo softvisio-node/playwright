@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.0 (2021-06-24)
+
+Changed:
+
+-   deps updated;
+
 ### 2.3.0-alpha.0 (2021-06-13)
 
 Changed:
