@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+        <link rel="stylesheet" id="lightTheme" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple.css" />
+        <link rel="stylesheet" id="darkTheme" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple-dark.css" />
+        <link rel="stylesheet" href="https://softvisio.github.io/cli/assets/theme/theme.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" />
+    </head>
+    <body>
+        <nav>
+            <a href="#/changelog">Changelog</a> • <a href="https://github.com/softvisio/playwright/discussions" title="Discussions"><i class="far fa-comments"></i></a> • <a href="https://github.com/softvisio/playwright/issues" title="Issues"><i class="fas fa-bug"></i></a> • <a href="https://www.npmjs.com/package/@softvisio/playwright" title="NPM package"><i class="fab fa-npm"></i></a> • <a href="#toggleTheme"><i class="fas fa-adjust"></i> Theme</a>
+        </nav>
+        <div id="app"></div>
+        <div id="gotoTop"><a href="#gotoTop">🡡 Top</a></div>
+
+        <script>
+            window.$docsify = { alias: { "/changelog": "https://raw.githubusercontent.com/softvisio/playwright/master/CHANGELOG.md" }, auto2top: true, externalLinkTarget: "_self", loadSidebar: true, maxLevel: 2, name: "@softvisio/playwright", relativePath: true, repo: "https://github.com/softvisio/playwright", search: { depth: 3 }, subMaxLevel: 2, tabs: {} };
+        </script>
+
+        <script src="https://softvisio.github.io/cli/assets/theme/theme.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify-tabs"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+    </body>
+</html>
