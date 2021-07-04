@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.3.1 (2021-07-04)
+
+Fixed:
+
+-   docs updated
+-   proxy class renamed
+-   docker config updated
+
 ### 2.3.0 (2021-06-24)
 
 Changed:
