@@ -22,7 +22,7 @@ async function patch () {
     ws.Server = class extends ws.Server {
         constructor ( options = {}, callback ) {
             options.host = "0.0.0.0";
-            options.path = "/chrome";
+            options.path = "/";
 
             super( options, callback );
         }
