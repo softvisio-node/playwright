@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.2 (2021-07-06)
+
+Fixed:
+
+-   server path removed
+
 ### 2.3.1 (2021-07-04)
 
 Fixed:
