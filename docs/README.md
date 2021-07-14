@@ -83,6 +83,6 @@ Patch for the original BrowserType class. Adds following changes:
 
 -   Returns: <boolean\> `true` if images is currently disabled.
 
-### page,disableImages()
+### page.disableImages()
 
 Sets `route` filter, that filters images requests.
