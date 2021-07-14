@@ -32,6 +32,27 @@ import playwright from "@softvisio/playwright";
 playwright.device.random();
 ```
 
+### Device profile
+
+Device profile is a <Object\> which contains varions properties, which are describes device:
+
+-   `id` <string\> Device ID.
+-   `name` <string\> Device name.
+-   `screen` <Object\> Screen dimensions:
+    -   `width` <integer\> Screen width.
+    -   `height` <integer\> Screen height.
+-   `viewport` <Object\> Viewport dimensions:
+    -   `width` <integer\> Screen width.
+    -   `height` <integer\> Screen height.
+-   `deviceScaleFactor` <number\> Device scale factor.
+-   `isMobile` <boolean\> `true` if device is a mobile device.
+-   `hasTouch` <boolean\> `true` if device has touch interface.
+-   `userAgent` <string\> UserAgent string.
+-   `userAgentPlatform` <string\> UserAgent platform name.
+-   `platform` <string\> Navigator platform name.
+-   `webglVendor` <string\> WebGL vendor name.
+-   `webglRenderer` <string\> WebGL renderer name.
+
 ### device.random()
 
 -   Returns: <Object\> Random device profile.
