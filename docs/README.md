@@ -76,3 +76,13 @@ Patch for the original BrowserType class. Adds following changes:
     -   `device` <Object\> Device profile. See <BrowserDevices\>.
     -   `stealth` <boolean\> Enables various stealth mode extensions, which helps to hide `headless` mode. **Default:** `true`.
     -   `proxy` <string\> | <ProxyClient\> | <Object\> Added support for <ProxyClient\>. If <string\> is provided it will be passed to the <ProxyClient\> constructor as URL.
+
+## Class: Page
+
+### page.imagesIsDisabled
+
+-   Returns: <boolean\> `true` if images is currently disabled.
+
+### page,disableImages()
+
+Sets `route` filter, that filters images requests.
