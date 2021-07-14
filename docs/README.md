@@ -85,4 +85,4 @@ Patch for the original BrowserType class. Adds following changes:
 
 ### page.disableImages()
 
-Sets `route` filter, that filters images requests.
+Sets `route` filter, which filters out images requests.
