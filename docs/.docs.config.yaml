@@ -1,1 +1,5 @@
 logo: false
+
+types:
+  BrowserDevices: "/#Class: BrowserDevices"
+  ProxyClient: "/"

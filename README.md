@@ -59,3 +59,24 @@ playwright.device.random();
 ### device.ipad()
 
 -   Returns: <Object\> Random iPad device profile.
+
+## Class: BrowserType
+
+Patch for the original BrowserType class. Adds following changes:
+
+-   `headless` By default under `windows` headless is set to the `false` for other platforms to the `true`.
+-   `executablePath` By default for `linux` platform is set to the `"/usr/bin/google-chrome-stable"`.
+-   `proxy` By default adds proxy server loopback that bypass all requests. It can be overridden in the browser contexts.
+
+## Class: Browser
+
+### browser.isHeadless
+
+-   Returns: <boolean\> `true` if browser started in the `headless` mode.
+
+### browser.newContext( options )
+
+-   `options` <Object\> New context options. Below are enumerated only the changes for the original API method:
+    -   `device` <Object\> Device profile. See <BrowserDevices\>.
+    -   `stealth` <boolean\> Enables various stealth mode extensions, which helps to hide `headless` mode. **Default:** `true`.
+    -   `proxy` <string\> | <ProxyClient\> | <Object\> Added support for <ProxyClient\>. If <string\> is provided it will be passed to the <ProxyClient\> constructor as URL.
