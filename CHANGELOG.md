@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.4 (2021-07-15)
+
+Fixed:
+
+-   docs external types added
+
 ### 2.3.3 (2021-07-14)
 
 Changed:
