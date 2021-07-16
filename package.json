@@ -15,7 +15,6 @@
     "author": "<zdm@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core": "@softvisio/core",
         "#core/*": "@softvisio/core/*",
         "#index": "./lib/index.js",
         "#lib/*": "./lib/*.js"
