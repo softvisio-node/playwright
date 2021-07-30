@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.7 (2021-07-30)
+
+Fixed:
+
+-   ws patch fixed
+
 ### 2.3.6 (2021-07-28)
 
 Changed:
