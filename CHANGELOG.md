@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.8 (2021-08-01)
+
+Fixed:
+
+-   config imports fixed
+
 ### 2.3.7 (2021-07-30)
 
 Fixed:
