@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.10 (2021-08-21)
+
+Fixed:
+
+-   playwright package.json patch fixed
+
 ### 2.3.9 (2021-08-21)
 
 Fixed:
