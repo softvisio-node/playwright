@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.11 (2021-08-21)
+
+Fixed:
+
+-   dockerfile fixed
+
 ### 2.3.10 (2021-08-21)
 
 Fixed:
