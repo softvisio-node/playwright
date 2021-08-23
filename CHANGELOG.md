@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.12 (2021-08-23)
+
+Fixed:
+
+-   server path patch added
+
 ### 2.3.11 (2021-08-21)
 
 Fixed:
