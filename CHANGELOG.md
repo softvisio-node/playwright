@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.3.13 (2021-08-30)
+
+Changed:
+
+-   docker base image changed to softvisio/node
+-   ws path added
+
 ### 2.3.12 (2021-08-23)
 
 Fixed:
