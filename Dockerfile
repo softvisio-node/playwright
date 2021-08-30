@@ -1,4 +1,4 @@
-FROM softvisio/core
+FROM softvisio/node
 
 HEALTHCHECK NONE
 
