@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.15 (2021-09-03)
+
+Fixes:
+
+-   fix: dockerfle rpm deps cleanup disabled
+
 ### 2.3.14 (2021-09-03)
 
 Fixes:
