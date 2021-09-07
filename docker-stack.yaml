@@ -29,4 +29,4 @@ networks:
 
 x-build:
   default_tag: latest
-  # autobuild_tags: [main, devel, latest]
+  # autobuild_tags: [main, devel, latest, next]
