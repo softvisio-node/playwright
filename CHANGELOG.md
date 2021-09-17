@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.19 (2021-09-17)
+
+Fixes:
+
+-   fix: docker devel tag removed
+
 ### 2.3.18 (2021-09-12)
 
 Fixes:
