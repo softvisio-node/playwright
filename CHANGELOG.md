@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.20 (2021-09-21)
+
+Fixes:
+
+-   fix: ws patch removed
+
 ### 2.3.19 (2021-09-17)
 
 Fixes:
