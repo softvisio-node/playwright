@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.21 (2021-09-24)
+
+Fixes:
+
+-   fix: ProxyClient constructor async
+
 ### 2.3.20 (2021-09-21)
 
 Fixes:
