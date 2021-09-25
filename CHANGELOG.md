@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.22 (2021-09-25)
+
+Fixes:
+
+-   fix: proxy client constructor sync
+
 ### 2.3.21 (2021-09-24)
 
 Fixes:
