@@ -4,8 +4,8 @@
 # common
 /data/
 /wiki/
-/.config.local.yaml
-/.config.*.local.yaml
+/env.local.yaml
+/env.*.local.yaml
 
 # node
 **/node_modules/
