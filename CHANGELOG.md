@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.23 (2021-09-30)
+
+Fixes:
+
+-   fix: config files renamed
+
 ### 2.3.22 (2021-09-25)
 
 Fixes:
