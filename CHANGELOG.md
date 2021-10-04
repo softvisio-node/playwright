@@ -1,5 +1,9 @@
 # Changelog
 
+### 2.4.1 (2021-10-04)
+
+No notable changes since the previous release.
+
 ### 2.4.0 (2021-10-02)
 
 Features:
