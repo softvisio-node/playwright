@@ -22,6 +22,9 @@
     "exports": {
         ".": "./lib/index.js"
     },
+    "scripts": {
+        "install": "node bin/install.js"
+    },
     "dependencies": {
         "playwright-core": "^1.15.0"
     },
