@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.4.5 (2021-10-19)
+
+Fixes:
+
+-   fix: playwright pkg patch updated
+
 ### 2.4.4 (2021-10-19)
 
 Fixes:
