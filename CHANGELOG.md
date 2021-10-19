@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.4.4 (2021-10-19)
+
+Fixes:
+
+-   fix: playwright exports patch removed
+
 ### 2.4.3 (2021-10-06)
 
 No notable changes since the previous release.
