@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.4.6 (2021-12-01)
+
+Fixes:
+
+-   fix: use chrome stable on linux by default
+
 ### 2.4.5 (2021-10-19)
 
 Fixes:
