@@ -20,7 +20,7 @@
     },
     "exports": {
         ".": "./lib/index.js",
-        "./*": "./lib/api/*.js"
+        "./*": "./lib/automation/*.js"
     },
     "scripts": {
         "install": "node bin/install.js"
