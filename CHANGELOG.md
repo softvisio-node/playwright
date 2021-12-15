@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.5.0 (2021-12-15)
+
+Features:
+
+-   feat: gmb api
+
 ### 2.4.6 (2021-12-01)
 
 Fixes:
