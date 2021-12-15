@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.6.1 (2021-12-15)
+
+Fixes:
+
+-   fix: catch site state error
+
 ### 2.6.0 (2021-12-15)
 
 Features:
