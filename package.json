@@ -16,11 +16,11 @@
     "type": "module",
     "imports": {
         "#core/*": "@softvisio/core/*",
-        "#index": "./lib/index.js",
         "#lib/*": "./lib/*.js"
     },
     "exports": {
-        ".": "./lib/index.js"
+        ".": "./lib/index.js",
+        "./*": "./lib/api/*.js"
     },
     "scripts": {
         "install": "node bin/install.js"
