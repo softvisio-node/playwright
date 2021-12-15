@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.6.0 (2021-12-15)
+
+Features:
+
+-   feat: google search automtion
+
 ### 2.5.0 (2021-12-15)
 
 Features:
