@@ -26,7 +26,8 @@
         "install": "node bin/install.js"
     },
     "dependencies": {
-        "playwright-core": "^1.15.0"
+        "playwright-core": "^1.15.0",
+        "random-location": "^1.1.3"
     },
     "peerDependencies": {
         "@softvisio/core": "^6.0.0"
