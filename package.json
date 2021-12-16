@@ -1,6 +1,6 @@
 {
     "name": "@softvisio/playwright",
-    "version": "2.6.1",
+    "version": "2.6.2",
     "description": "Playwright wrapper",
     "homepage": "https://github.com/softvisio/playwright",
     "bugs": {

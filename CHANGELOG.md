@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.6.2 (2021-12-16)
+
+Fixes:
+
+-   fix: google selectors
+-   fix: unref datasets api
+
 ### 2.6.1 (2021-12-15)
 
 Fixes:
