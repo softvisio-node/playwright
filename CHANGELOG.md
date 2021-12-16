@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.6.4 (2021-12-16)
+
+Fixes:
+
+-   fix: browse site timeouts added
+
 ### 2.6.3 (2021-12-16)
 
 Fixes:
