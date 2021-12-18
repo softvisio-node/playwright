@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.6.5 (2021-12-18)
+
+Fixes:
+
+-   fix: google timezone added
+
 ### 2.6.4 (2021-12-16)
 
 Fixes:
