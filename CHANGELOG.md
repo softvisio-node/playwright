@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.6.6 (2021-12-24)
+
+Fixes:
+
+-   fix: api client properties immutable
+
 ### 2.6.5 (2021-12-18)
 
 Fixes:
