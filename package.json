@@ -16,7 +16,8 @@
     "type": "module",
     "imports": {
         "#core/*": "@softvisio/core/*",
-        "#lib/*": "./lib/*.js"
+        "#lib/*": "./lib/*.js",
+        "#resources/*": "./resources/*"
     },
     "exports": {
         ".": "./lib/index.js",

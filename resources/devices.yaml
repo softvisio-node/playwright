@@ -1,0 +1,105 @@
+# https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide
+desktop_resolutions:
+  - { "width": 1366, "height": 768 }
+  - { "width": 1920, "height": 1080 }
+  - { "width": 1536, "height": 864 }
+  - { "width": 1440, "height": 900 }
+  - { "width": 1600, "height": 900 }
+  - { "width": 1280, "height": 720 }
+  - { "width": 1280, "height": 800 }
+  - { "width": 1280, "height": 1024 }
+  - { "width": 1024, "height": 768 }
+  - { "width": 1680, "height": 1050 }
+
+devices:
+  windows-10:
+    name: Windows 10
+    tags: [desktop, windows]
+    viewport: ~
+    deviceScaleFactor: 1
+    isMobile: false
+    hasTouch: false
+    userAgent: ~
+    userAgentPlatform: Windows NT 10.0; Win64; x64
+    platform: Win32
+    webglVendor: Intel Inc.
+    webglRenderer: Intel Iris OpenGL Engine
+
+  linux:
+    name: Linux
+    tags: [desktop, linux]
+    viewport: ~
+    deviceScaleFactor: 1
+    isMobile: false
+    hasTouch: false
+    userAgent: ~
+    userAgentPlatform: X11; Linux x86_64
+    platform: Linux x86_64
+    webglVendor: Intel Inc.
+    webglRenderer: Intel Iris OpenGL Engine
+
+  iphone-11-pro:
+    name: iPhone 11 Pro
+    tags: [mobile, ios, iphone]
+    viewport: { width: 375, height: 812 }
+    deviceScaleFactor: 3
+    isMobile: true
+    hasTouch: true
+    userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
+    webglVendor: ~
+    webglRenderer: ~
+
+  iphone-11-pro-max:
+    name: iPhone 11 Pro Max
+    tags: [mobile, ios, iphone]
+    viewport: { width: 414, height: 896 }
+    deviceScaleFactor: 3
+    isMobile: true
+    hasTouch: true
+    userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
+    webglVendor: ~
+    webglRenderer: ~
+
+  iphone-12-pro:
+    name: iPhone 12 Pro
+    tags: [mobile, ios, iphone]
+    viewport: { width: 390, height: 844 }
+    deviceScaleFactor: 3
+    isMobile: true
+    hasTouch: true
+    userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
+    webglVendor: ~
+    webglRenderer: ~
+
+  iphone-12-pro-max:
+    name: iPhone 12 Pro Max
+    tags: [mobile, ios, iphone]
+    viewport: { width: 428, height: 926 }
+    deviceScaleFactor: 3
+    isMobile: true
+    hasTouch: true
+    userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
+    webglVendor: ~
+    webglRenderer: ~
+
+  galaxy-note-20:
+    name: Galaxy Note 20
+    tags: [mobile, android]
+    viewport: { width: 412, height: 915 }
+    deviceScaleFactor: 2.625
+    isMobile: true
+    hasTouch: true
+    userAgent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36
+    webglVendor: ~
+    webglRenderer: ~
+
+  galaxy-note-20-ultra:
+    name: Galaxy Note 20 Ultra
+    tags: [mobile, android]
+    viewport: { width: 412, height: 883 }
+    deviceScaleFactor: 3.5
+    isMobile: true
+    hasTouch: true
+    userAgent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36
+    webglVendor: ~
+    webglRenderer: ~
