@@ -46,8 +46,8 @@ devices:
     isMobile: true
     hasTouch: true
     userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
-    webglVendor: ~
-    webglRenderer: ~
+    webglVendor: Apple Inc.
+    webglRenderer: Apple GPU
 
   iphone-11-pro-max:
     name: iPhone 11 Pro Max
@@ -57,8 +57,8 @@ devices:
     isMobile: true
     hasTouch: true
     userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
-    webglVendor: ~
-    webglRenderer: ~
+    webglVendor: Apple Inc.
+    webglRenderer: Apple GPU
 
   iphone-12-pro:
     name: iPhone 12 Pro
@@ -68,8 +68,8 @@ devices:
     isMobile: true
     hasTouch: true
     userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
-    webglVendor: ~
-    webglRenderer: ~
+    webglVendor: Apple Inc.
+    webglRenderer: Apple GPU
 
   iphone-12-pro-max:
     name: iPhone 12 Pro Max
@@ -79,8 +79,8 @@ devices:
     isMobile: true
     hasTouch: true
     userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
-    webglVendor: ~
-    webglRenderer: ~
+    webglVendor: Apple Inc.
+    webglRenderer: Apple GPU
 
   galaxy-note-20:
     name: Galaxy Note 20
