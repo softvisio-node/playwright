@@ -1,5 +1,17 @@
 # Changelog
 
+### 2.7.0 (2021-12-30)
+
+Features:
+
+-   feat: devices
+-   feat: gmb mobile
+
+Fixes:
+
+-   fix: api client init
+-   fix: devices db
+
 ### 2.6.6 (2021-12-24)
 
 Fixes:
