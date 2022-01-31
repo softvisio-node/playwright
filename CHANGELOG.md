@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.2 (2022-01-31)
+
+Fixes:
+
+-   fix: google use static coordinates by default
+
 ### 2.7.1 (2022-01-17)
 
 Fixes:
