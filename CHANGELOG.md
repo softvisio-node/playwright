@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.3 (2022-02-02)
+
+Fixes:
+
+-   fix: gsearch api
+
 ### 2.7.2 (2022-01-31)
 
 Fixes:
