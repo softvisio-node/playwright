@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.4 (2022-02-03)
+
+Fixes:
+
+-   fix: google coordinates
+
 ### 2.7.3 (2022-02-02)
 
 Fixes:
