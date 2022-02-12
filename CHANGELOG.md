@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.5 (2022-02-12)
+
+Fixes:
+
+-   fix: config api changed
+
 ### 2.7.4 (2022-02-03)
 
 Fixes:
