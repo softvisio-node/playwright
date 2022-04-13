@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.7 (2022-04-13)
+
+Fixes:
+
+-   fix: user agent patch
+
 ### 2.7.6 (2022-02-21)
 
 Fixes:
