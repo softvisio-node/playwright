@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.7.10 (2022-06-26)
+
+Fixes:
+
+-   fix: chromium args
+-   fix: use msedge on windows by default
+
 ### 2.7.9 (2022-06-13)
 
 Fixes:
