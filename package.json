@@ -31,7 +31,7 @@
         "random-location": "^1.1.3"
     },
     "peerDependencies": {
-        "@softvisio/core": "^6.0.0"
+        "@softvisio/core": "^7.0.0"
     },
     "engines": {
         "node": ">=16.0.0",
