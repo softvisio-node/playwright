@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> :information_source: Please, see the full project documentation here: [https://softvisio.github.io/playwright/](https://softvisio.github.io/playwright/).
+> :information_source: Please, see the full project documentation here: [https://softvisio-node.github.io/playwright/](https://softvisio-node.github.io/playwright/).
 
 # Introduction
 
