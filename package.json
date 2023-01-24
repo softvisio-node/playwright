@@ -2,14 +2,14 @@
     "name": "@softvisio/playwright",
     "version": "2.7.11",
     "description": "Playwright wrapper",
-    "homepage": "https://softvisio.github.io/playwright/",
+    "homepage": "https://softvisio-node.github.io/playwright/",
     "bugs": {
-        "url": "https://github.com/softvisio/playwright/issues",
+        "url": "https://github.com/softvisio-node/playwright/issues",
         "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/softvisio/playwright.git"
+        "url": "https://github.com/softvisio-node/playwright.git"
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
