@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.12 (2023-01-24)
+
+Fixes:
+
+-   fix: git repo relocated
+
 ### 2.7.11 (2022-12-21)
 
 Fixes:
