@@ -23,6 +23,12 @@
         ".": "./lib/index.js",
         "./*": "./lib/automation/*.js"
     },
+    "files": [
+        "/bin",
+        "/lib",
+        "/resources",
+        "/src"
+    ],
     "scripts": {
         "install": "node bin/install.js"
     },
