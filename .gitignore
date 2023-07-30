@@ -1,8 +1,6 @@
-# common
+node_modules
+
 /data
 /wiki
 /env.local.yaml
 /env.*.local.yaml
-
-# node
-/node_modules
