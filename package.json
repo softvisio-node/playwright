@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/softvisio-node/playwright.git"
+        "url": "git+https://github.com/softvisio-node/playwright.git"
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
