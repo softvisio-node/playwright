@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.22 (2024-01-25)
+
+Fixes:
+
+-   fix: result try / catch options
+
 ### 2.7.21 (2024-01-24)
 
 Fixes:
