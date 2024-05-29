@@ -5,14 +5,14 @@
     "homepage": "https://softvisio-node.github.io/playwright/",
     "bugs": {
         "url": "https://github.com/softvisio-node/playwright/issues",
-        "email": "zdm <zdm@softvisio.net>"
+        "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/softvisio-node/playwright.git"
     },
     "license": "ISC",
-    "author": "zdm <zdm@softvisio.net>",
+    "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
         "#core/*": "@softvisio/core/*",
