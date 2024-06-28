@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.1 (2024-06-28)
+
+Fixes:
+
+-   fix: http cookies
+
 ### 2.8.0 (2024-06-28)
 
 Features:
