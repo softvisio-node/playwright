@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.0 (2024-06-28)
+
+Features:
+
+-   feat: get http cookies
+
 ### 2.7.27 (2024-05-29)
 
 Fixes:
