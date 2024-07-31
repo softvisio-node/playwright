@@ -38,9 +38,5 @@
     },
     "peerDependencies": {
         "@softvisio/core": "^7.0.0"
-    },
-    "engines": {
-        "node": ">=16.0.0",
-        "npm": ">=7.10.0"
     }
 }
