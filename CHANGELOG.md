@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.2 (2024-07-31)
+
+Fixes:
+
+-   fix: package engines removed
+
 ### 2.8.1 (2024-06-28)
 
 Fixes:
