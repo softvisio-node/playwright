@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.6 (2024-08-19)
+
+Fixes:
+
+-   fix: api client constructor
+
 ### 2.8.5 (2024-08-14)
 
 No notable changes since the previous release.
