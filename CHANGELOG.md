@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.7 (2024-09-02)
+
+Fixes:
+
+-   fix: docs config
+
 ### 2.8.6 (2024-08-19)
 
 Fixes:
