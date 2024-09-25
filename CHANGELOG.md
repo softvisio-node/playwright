@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.11 (2024-09-25)
+
+Fixes:
+
+-   fix: random weight
+
 ### 2.8.10 (2024-09-13)
 
 No notable changes since the previous release.
