@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 import module from "node:module";
-import { readConfig, writeConfig } from "#core/config";
 import path from "node:path";
+import { readConfig, writeConfig } from "#core/config";
 
 const pwPath = module.createRequire( import.meta.url ).resolve( "playwright-core" ),
     pkgPath = path.join( path.dirname( pwPath ), "package.json" ),
