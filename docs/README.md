@@ -7,7 +7,7 @@ You can find original playwright API documentation [here](https://playwright.dev
 ## Install
 
 ```shell
-npm i @softvisio/playwright
+npm install @softvisio/playwright
 ```
 
 It doesn't installs any browsers by default, so if you need `chromiun` you need to install it manually:

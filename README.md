@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> :information_source: Please, see the full project documentation here: [https://softvisio-node.github.io/playwright/](https://softvisio-node.github.io/playwright/).
+> :information_source: Please, see the full project documentation here:<br>[https://softvisio-node.github.io/playwright/](https://softvisio-node.github.io/playwright/)
 
 # Introduction
 
@@ -11,7 +11,7 @@ You can find original playwright API documentation [here](https://playwright.dev
 ## Install
 
 ```shell
-npm i @softvisio/playwright
+npm install @softvisio/playwright
 ```
 
 It doesn't installs any browsers by default, so if you need `chromiun` you need to install it manually:
