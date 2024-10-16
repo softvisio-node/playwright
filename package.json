@@ -30,7 +30,8 @@
         "/src"
     ],
     "scripts": {
-        "install": "node bin/install.js"
+        "install": "node bin/install.js",
+        "publish": "softvisio-cli package publish"
     },
     "dependencies": {
         "playwright-core": "^1.15.0",
