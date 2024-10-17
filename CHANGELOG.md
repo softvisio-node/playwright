@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.16 (2024-10-17)
+
+No notable changes since the previous release.
+
+[Full list of the changes](https://github.com/softvisio-node/playwright/compare/v2.8.15...v2.8.16)
+
 ### 2.8.15 (2024-10-16)
 
 No notable changes since the previous release.
