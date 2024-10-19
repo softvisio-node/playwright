@@ -13,4 +13,4 @@ delete pkg.exports[ "./" ];
 
 writeConfig( pkgPath, pkg, { "readable": true } );
 
-console.log( "Playwright exports patched:", pkg.exports );
+console.log( `"playwright-core" exports patched` );
