@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.8.18 (2024-10-29)
+
+Other changes:
+
+-   chore: update docs
+
+[Compare with the previous release: v2.8.17 ... v2.8.18](https://github.com/softvisio-node/playwright/compare/v2.8.17...v2.8.18)
+
 ### 2.8.17 (2024-10-20)
 
 No notable changes since the previous release.
