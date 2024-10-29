@@ -468,7 +468,7 @@ Fixed:
 
 Changed:
 
--   #core/fs removed
+-   \#core/fs removed
 
 ### 2.3.5 (2021-07-16)
 
