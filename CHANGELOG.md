@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.8.19 (2024-11-07)
+
+Other changes:
+
+-   chore: update package metadata
+
+[Compare with the previous release: v2.8.18 ... v2.8.19](https://github.com/softvisio-node/playwright/compare/v2.8.18...v2.8.19)
+
 ### 2.8.18 (2024-10-29)
 
 Other changes:
