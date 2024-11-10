@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.8.20 (2024-11-10)
+
+Other changes:
+
+-   chore: chmod files
+
+[Compare with the previous release: v2.8.19 ... v2.8.20](https://github.com/softvisio-node/playwright/compare/v2.8.19...v2.8.20)
+
 ### 2.8.19 (2024-11-07)
 
 Other changes:
