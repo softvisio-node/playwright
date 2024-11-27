@@ -1,5 +1,5 @@
--   [Introduction](/)
+- [Introduction](/)
 
 **Links**
 
--   [Changelog](/changelog)
+- [Changelog](/changelog)
