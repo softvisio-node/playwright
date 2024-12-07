@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.8.23 (2024-12-07)
+
+Other changes:
+
+- chore: set yaml indent to 4 spaces
+
+[Compare with the previous release: v2.8.22 ... v2.8.23](https://github.com/softvisio-node/playwright/compare/v2.8.22...v2.8.23)
+
 ### 2.8.22 (2024-11-27)
 
 Other changes:
