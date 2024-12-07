@@ -1,9 +1,9 @@
 docs:
-  location: /docs
+    location: /docs
 
-  externalTypes:
-    - softvisio-node/core
-    - softvisio-node/result
+    externalTypes:
+        - softvisio-node/core
+        - softvisio-node/result
 
-  types:
-    BrowserDevices: "/#Class: BrowserDevices"
+    types:
+        BrowserDevices: "/#Class: BrowserDevices"
