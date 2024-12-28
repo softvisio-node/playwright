@@ -29,9 +29,6 @@
         "/resources",
         "/src"
     ],
-    "scripts": {
-        "install": "node bin/install.js"
-    },
     "dependencies": {
         "playwright-core": "^1.15.0",
         "random-location": "^1.1.3"
