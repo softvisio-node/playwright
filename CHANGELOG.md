@@ -1,5 +1,15 @@
 # Changelog
 
+### 2.8.24 (2024-12-29)
+
+Other changes:
+
+- chore: disable stealth by default
+- chore: fix patches loading
+- chore: fix useragent patcher
+
+[Compare with the previous release: v2.8.23 ... v2.8.24](https://github.com/softvisio-node/playwright/compare/v2.8.23...v2.8.24)
+
 ### 2.8.23 (2024-12-07)
 
 Other changes:
