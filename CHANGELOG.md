@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.8.25 (2024-12-30)
+
+Other changes:
+
+- chore: update net proxy import
+
+[Compare with the previous release: v2.8.24 ... v2.8.25](https://github.com/softvisio-node/playwright/compare/v2.8.24...v2.8.25)
+
 ### 2.8.24 (2024-12-29)
 
 Other changes:
