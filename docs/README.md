@@ -107,3 +107,15 @@ Patch for the original BrowserType class. Adds following changes:
 ### page.disableImages()
 
 Sets `route` filter, which filters out images requests.
+
+### Resources
+
+<https://httpbin.org/user-agent>
+
+<http://www.ip-score.com>
+
+<https://arh.antoinevastel.com/bots/areyouheadless>
+
+<https://bot.sannysoft.com>
+
+<https://antoinevastel.com/bots/>
