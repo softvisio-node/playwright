@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.9.1 (2025-01-18)
+
+Other changes:
+
+- chore: fix typo
+
+Compare with the previous release: [`v2.9.0...v2.9.1`](https://github.com/softvisio-node/playwright/compare/v2.9.0...v2.9.1)
+
 ### 2.9.0 (2025-01-18)
 
 Features:
