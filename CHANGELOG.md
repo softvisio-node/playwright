@@ -1,5 +1,14 @@
 # Changelog
 
+### 2.9.0 (2025-01-18)
+
+Features:
+
+- feat: add stealth plugin
+- feat: add user agent browser isChromium property
+
+Compare with the previous release: [`v2.8.27...v2.9.0`](https://github.com/softvisio-node/playwright/compare/v2.8.27...v2.9.0)
+
 ### 2.8.27 (2025-01-10)
 
 Other changes:
