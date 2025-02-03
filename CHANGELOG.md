@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.10.0 (2025-02-03)
+
+Features:
+
+- feat: refactor read / write config
+
+Compare with the previous release: [`v2.9.1...v2.10.0`](https://github.com/softvisio-node/playwright/compare/v2.9.1...v2.10.0)
+
 ### 2.9.1 (2025-01-18)
 
 Other changes:
