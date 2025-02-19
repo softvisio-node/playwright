@@ -1,3 +1,5 @@
+releasable: true
+
 docs:
     location: /docs
 
