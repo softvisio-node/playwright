@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.10.2 (2025-02-26)
+
+Other changes:
+
+- chore: update editorconfig
+
+Compare with the previous release: [`v2.10.1...v2.10.2`](https://github.com/softvisio-node/playwright/compare/v2.10.1...v2.10.2)
+
 ### 2.10.1 (2025-02-19)
 
 Other changes:
