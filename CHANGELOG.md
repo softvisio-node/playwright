@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.10.3 (2025-02-27)
+
+Other changes:
+
+- chore: add editorconfig yaml
+
+Compare with the previous release: [`v2.10.2...v2.10.3`](https://github.com/softvisio-node/playwright/compare/v2.10.2...v2.10.3)
+
 ### 2.10.2 (2025-02-26)
 
 Other changes:
