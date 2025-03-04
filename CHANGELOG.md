@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.10.5 (2025-03-04)
+
+Other changes:
+
+- chore: update package metadata
+
+Compare with the previous release: [`v2.10.4...v2.10.5`](https://github.com/softvisio-node/playwright/compare/v2.10.4...v2.10.5)
+
 ### 2.10.4 (2025-03-04)
 
 Other changes:
