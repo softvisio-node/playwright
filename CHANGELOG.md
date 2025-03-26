@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.10.6 (2025-03-26)
+
+Other changes:
+
+- chore: update markdown code tags
+
+Compare with the previous release: [`v2.10.5...v2.10.6`](https://github.com/softvisio-node/playwright/compare/v2.10.5...v2.10.6)
+
 ### 2.10.5 (2025-03-04)
 
 Other changes:
