@@ -10,13 +10,13 @@ You can find original playwright API documentation [here](https://playwright.dev
 
 ## Install
 
-```shell
+```sh
 npm install @softvisio/playwright
 ```
 
 It doesn't installs any browsers by default, so if you need `chromiun` you need to install it manually:
 
-```shell
+```sh
 npx playwright install chromium
 ```
 
