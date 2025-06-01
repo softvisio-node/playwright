@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.9 (2025-06-01)
+
+**Other changes:**
+
+- \[PATCH] chore: update docs (👬 zdm)
+
+Compare with the previous release: [v2.10.8](https://github.com/softvisio-node/playwright/compare/v2.10.8...v2.10.9)
+
 ### 2.10.8 (2025-04-18)
 
 Other changes:
