@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.10 (2025-06-07)
+
+**Other changes:**
+
+- \[PATCH] chore: update cli config (👬 zdm)
+
+Compare with the previous release: [v2.10.9](https://github.com/softvisio-node/playwright/compare/v2.10.9...v2.10.10)
+
 ### v2.10.9 (2025-06-01)
 
 **Other changes:**
