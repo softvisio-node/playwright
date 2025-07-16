@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.12 (2025-07-16)
+
+**Other changes:**
+
+- style: lint (● [df43e1c](https://github.com/softvisio-node/playwright/commit/df43e1c); 👬 zdm)
+
+Compare with the previous release: [v2.10.11](https://github.com/softvisio-node/playwright/compare/v2.10.11...v2.10.12)
+
 ### v2.10.11 (2025-07-16)
 
 **Other changes:**
