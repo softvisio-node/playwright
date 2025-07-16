@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.11 (2025-07-16)
+
+**Other changes:**
+
+- docs: update (● [b9bbe62](https://github.com/softvisio-node/playwright/commit/b9bbe62); 👬 zdm)
+
+Compare with the previous release: [v2.10.10](https://github.com/softvisio-node/playwright/compare/v2.10.10...v2.10.11)
+
 ### v2.10.10 (2025-06-07)
 
 **Other changes:**
