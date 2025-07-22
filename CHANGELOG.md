@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.13 (2025-07-22)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix editorconfig (● [26a61a8](https://github.com/softvisio-node/playwright/commit/26a61a8); 👬 zdm)
+
+Compare with the previous release: [v2.10.12](https://github.com/softvisio-node/playwright/compare/v2.10.12...v2.10.13)
+
 ### v2.10.12 (2025-07-16)
 
 **Other changes:**
