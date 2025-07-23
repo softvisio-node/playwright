@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.15 (2025-07-23)
+
+**Other changes:**
+
+- style: update .npmrc (● [6c337d4](https://github.com/softvisio-node/playwright/commit/6c337d4); 👬 zdm)
+
+Compare with the previous release: [v2.10.14](https://github.com/softvisio-node/playwright/compare/v2.10.14...v2.10.15)
+
 ### v2.10.14 (2025-07-23)
 
 **Bug fixes:**
