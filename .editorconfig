@@ -1,15 +1,16 @@
 root = true
 
 [*]
-indent_style = space
-indent_size = 4
-end_of_line = lf
-charset = utf-8
+charset                  = utf-8
+end_of_line              = lf
+indent_size              = 4
+indent_style             = space
+insert_final_newline     = true
+spelling_language        = unset
 trim_trailing_whitespace = true
-insert_final_newline = true
 
 max_line_length = unset
-trim = true
+trim            = true
 
 [*.{yaml,yml}]
 indent_size = 2
