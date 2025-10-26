@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.10.16 (2025-10-26)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: replace quoteMeta with RegExp.escape (● [f1ac7a7](https://github.com/softvisio-node/playwright/commit/f1ac7a7); 👬 zdm)
+
+**Other changes:**
+
+- style: lint (● [b4b218c](https://github.com/softvisio-node/playwright/commit/b4b218c), [301f3c1](https://github.com/softvisio-node/playwright/commit/301f3c1); 👬 zdm)
+
+Compare with the previous release: [v2.10.15](https://github.com/softvisio-node/playwright/compare/v2.10.15...v2.10.16)
+
 ### v2.10.15 (2025-07-23)
 
 **Other changes:**
