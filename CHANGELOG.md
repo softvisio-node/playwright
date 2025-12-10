@@ -4,53 +4,53 @@
 
 **Code refactoring:**
 
-- \[PATCH] refactor: replace quoteMeta with RegExp.escape (● [f1ac7a7](https://github.com/softvisio-node/playwright/commit/f1ac7a7); 👬 zdm)
+- \[PATCH] refactor: replace quoteMeta with RegExp.escape (● [f1ac7a7](https://github.com/c0rejs/playwright/commit/f1ac7a7); 👬 zdm)
 
 **Other changes:**
 
-- style: lint (● [b4b218c](https://github.com/softvisio-node/playwright/commit/b4b218c), [301f3c1](https://github.com/softvisio-node/playwright/commit/301f3c1); 👬 zdm)
+- style: lint (● [b4b218c](https://github.com/c0rejs/playwright/commit/b4b218c), [301f3c1](https://github.com/c0rejs/playwright/commit/301f3c1); 👬 zdm)
 
-Compare with the previous release: [v2.10.15](https://github.com/softvisio-node/playwright/compare/v2.10.15...v2.10.16)
+Compare with the previous release: [v2.10.15](https://github.com/c0rejs/playwright/compare/v2.10.15...v2.10.16)
 
 ### v2.10.15 (2025-07-23)
 
 **Other changes:**
 
-- style: update .npmrc (● [6c337d4](https://github.com/softvisio-node/playwright/commit/6c337d4); 👬 zdm)
+- style: update .npmrc (● [6c337d4](https://github.com/c0rejs/playwright/commit/6c337d4); 👬 zdm)
 
-Compare with the previous release: [v2.10.14](https://github.com/softvisio-node/playwright/compare/v2.10.14...v2.10.15)
+Compare with the previous release: [v2.10.14](https://github.com/c0rejs/playwright/compare/v2.10.14...v2.10.15)
 
 ### v2.10.14 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [bc5aa6c](https://github.com/softvisio-node/playwright/commit/bc5aa6c); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [bc5aa6c](https://github.com/c0rejs/playwright/commit/bc5aa6c); 👬 zdm)
 
-Compare with the previous release: [v2.10.13](https://github.com/softvisio-node/playwright/compare/v2.10.13...v2.10.14)
+Compare with the previous release: [v2.10.13](https://github.com/c0rejs/playwright/compare/v2.10.13...v2.10.14)
 
 ### v2.10.13 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [26a61a8](https://github.com/softvisio-node/playwright/commit/26a61a8); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [26a61a8](https://github.com/c0rejs/playwright/commit/26a61a8); 👬 zdm)
 
-Compare with the previous release: [v2.10.12](https://github.com/softvisio-node/playwright/compare/v2.10.12...v2.10.13)
+Compare with the previous release: [v2.10.12](https://github.com/c0rejs/playwright/compare/v2.10.12...v2.10.13)
 
 ### v2.10.12 (2025-07-16)
 
 **Other changes:**
 
-- style: lint (● [df43e1c](https://github.com/softvisio-node/playwright/commit/df43e1c); 👬 zdm)
+- style: lint (● [df43e1c](https://github.com/c0rejs/playwright/commit/df43e1c); 👬 zdm)
 
-Compare with the previous release: [v2.10.11](https://github.com/softvisio-node/playwright/compare/v2.10.11...v2.10.12)
+Compare with the previous release: [v2.10.11](https://github.com/c0rejs/playwright/compare/v2.10.11...v2.10.12)
 
 ### v2.10.11 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [b9bbe62](https://github.com/softvisio-node/playwright/commit/b9bbe62); 👬 zdm)
+- docs: update (● [b9bbe62](https://github.com/c0rejs/playwright/commit/b9bbe62); 👬 zdm)
 
-Compare with the previous release: [v2.10.10](https://github.com/softvisio-node/playwright/compare/v2.10.10...v2.10.11)
+Compare with the previous release: [v2.10.10](https://github.com/c0rejs/playwright/compare/v2.10.10...v2.10.11)
 
 ### v2.10.10 (2025-06-07)
 
@@ -58,7 +58,7 @@ Compare with the previous release: [v2.10.10](https://github.com/softvisio-node/
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v2.10.9](https://github.com/softvisio-node/playwright/compare/v2.10.9...v2.10.10)
+Compare with the previous release: [v2.10.9](https://github.com/c0rejs/playwright/compare/v2.10.9...v2.10.10)
 
 ### v2.10.9 (2025-06-01)
 
@@ -66,7 +66,7 @@ Compare with the previous release: [v2.10.9](https://github.com/softvisio-node/p
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v2.10.8](https://github.com/softvisio-node/playwright/compare/v2.10.8...v2.10.9)
+Compare with the previous release: [v2.10.8](https://github.com/c0rejs/playwright/compare/v2.10.8...v2.10.9)
 
 ### 2.10.8 (2025-04-18)
 
@@ -74,7 +74,7 @@ Other changes:
 
 - chore: update patch
 
-Compare with the previous release: [`v2.10.7...v2.10.8`](https://github.com/softvisio-node/playwright/compare/v2.10.7...v2.10.8)
+Compare with the previous release: [`v2.10.7...v2.10.8`](https://github.com/c0rejs/playwright/compare/v2.10.7...v2.10.8)
 
 ### 2.10.7 (2025-04-18)
 
@@ -82,7 +82,7 @@ Other changes:
 
 - chore: update patch
 
-Compare with the previous release: [`v2.10.6...v2.10.7`](https://github.com/softvisio-node/playwright/compare/v2.10.6...v2.10.7)
+Compare with the previous release: [`v2.10.6...v2.10.7`](https://github.com/c0rejs/playwright/compare/v2.10.6...v2.10.7)
 
 ### 2.10.6 (2025-03-26)
 
@@ -90,7 +90,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v2.10.5...v2.10.6`](https://github.com/softvisio-node/playwright/compare/v2.10.5...v2.10.6)
+Compare with the previous release: [`v2.10.5...v2.10.6`](https://github.com/c0rejs/playwright/compare/v2.10.5...v2.10.6)
 
 ### 2.10.5 (2025-03-04)
 
@@ -98,7 +98,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v2.10.4...v2.10.5`](https://github.com/softvisio-node/playwright/compare/v2.10.4...v2.10.5)
+Compare with the previous release: [`v2.10.4...v2.10.5`](https://github.com/c0rejs/playwright/compare/v2.10.4...v2.10.5)
 
 ### 2.10.4 (2025-03-04)
 
@@ -106,7 +106,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v2.10.3...v2.10.4`](https://github.com/softvisio-node/playwright/compare/v2.10.3...v2.10.4)
+Compare with the previous release: [`v2.10.3...v2.10.4`](https://github.com/c0rejs/playwright/compare/v2.10.3...v2.10.4)
 
 ### 2.10.3 (2025-02-27)
 
@@ -114,7 +114,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v2.10.2...v2.10.3`](https://github.com/softvisio-node/playwright/compare/v2.10.2...v2.10.3)
+Compare with the previous release: [`v2.10.2...v2.10.3`](https://github.com/c0rejs/playwright/compare/v2.10.2...v2.10.3)
 
 ### 2.10.2 (2025-02-26)
 
@@ -122,7 +122,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v2.10.1...v2.10.2`](https://github.com/softvisio-node/playwright/compare/v2.10.1...v2.10.2)
+Compare with the previous release: [`v2.10.1...v2.10.2`](https://github.com/c0rejs/playwright/compare/v2.10.1...v2.10.2)
 
 ### 2.10.1 (2025-02-19)
 
@@ -130,7 +130,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v2.10.0...v2.10.1`](https://github.com/softvisio-node/playwright/compare/v2.10.0...v2.10.1)
+Compare with the previous release: [`v2.10.0...v2.10.1`](https://github.com/c0rejs/playwright/compare/v2.10.0...v2.10.1)
 
 ### 2.10.0 (2025-02-03)
 
@@ -138,7 +138,7 @@ Features:
 
 - feat: refactor read / write config
 
-Compare with the previous release: [`v2.9.1...v2.10.0`](https://github.com/softvisio-node/playwright/compare/v2.9.1...v2.10.0)
+Compare with the previous release: [`v2.9.1...v2.10.0`](https://github.com/c0rejs/playwright/compare/v2.9.1...v2.10.0)
 
 ### 2.9.1 (2025-01-18)
 
@@ -146,7 +146,7 @@ Other changes:
 
 - chore: fix typo
 
-Compare with the previous release: [`v2.9.0...v2.9.1`](https://github.com/softvisio-node/playwright/compare/v2.9.0...v2.9.1)
+Compare with the previous release: [`v2.9.0...v2.9.1`](https://github.com/c0rejs/playwright/compare/v2.9.0...v2.9.1)
 
 ### 2.9.0 (2025-01-18)
 
@@ -155,7 +155,7 @@ Features:
 - feat: add stealth plugin
 - feat: add user agent browser isChromium property
 
-Compare with the previous release: [`v2.8.27...v2.9.0`](https://github.com/softvisio-node/playwright/compare/v2.8.27...v2.9.0)
+Compare with the previous release: [`v2.8.27...v2.9.0`](https://github.com/c0rejs/playwright/compare/v2.8.27...v2.9.0)
 
 ### 2.8.27 (2025-01-10)
 
@@ -163,7 +163,7 @@ Other changes:
 
 - chore: refactor browser
 
-[Compare with the previous release: v2.8.26...v2.8.27](https://github.com/softvisio-node/playwright/compare/v2.8.26...v2.8.27)
+[Compare with the previous release: v2.8.26...v2.8.27](https://github.com/c0rejs/playwright/compare/v2.8.26...v2.8.27)
 
 ### 2.8.26 (2025-01-08)
 
@@ -171,7 +171,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.8.25 ... v2.8.26](https://github.com/softvisio-node/playwright/compare/v2.8.25...v2.8.26)
+[Compare with the previous release: v2.8.25 ... v2.8.26](https://github.com/c0rejs/playwright/compare/v2.8.25...v2.8.26)
 
 ### 2.8.25 (2024-12-30)
 
@@ -179,7 +179,7 @@ Other changes:
 
 - chore: update net proxy import
 
-[Compare with the previous release: v2.8.24 ... v2.8.25](https://github.com/softvisio-node/playwright/compare/v2.8.24...v2.8.25)
+[Compare with the previous release: v2.8.24 ... v2.8.25](https://github.com/c0rejs/playwright/compare/v2.8.24...v2.8.25)
 
 ### 2.8.24 (2024-12-29)
 
@@ -189,7 +189,7 @@ Other changes:
 - chore: fix patches loading
 - chore: fix useragent patcher
 
-[Compare with the previous release: v2.8.23 ... v2.8.24](https://github.com/softvisio-node/playwright/compare/v2.8.23...v2.8.24)
+[Compare with the previous release: v2.8.23 ... v2.8.24](https://github.com/c0rejs/playwright/compare/v2.8.23...v2.8.24)
 
 ### 2.8.23 (2024-12-07)
 
@@ -197,7 +197,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v2.8.22 ... v2.8.23](https://github.com/softvisio-node/playwright/compare/v2.8.22...v2.8.23)
+[Compare with the previous release: v2.8.22 ... v2.8.23](https://github.com/c0rejs/playwright/compare/v2.8.22...v2.8.23)
 
 ### 2.8.22 (2024-11-27)
 
@@ -205,7 +205,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.8.21 ... v2.8.22](https://github.com/softvisio-node/playwright/compare/v2.8.21...v2.8.22)
+[Compare with the previous release: v2.8.21 ... v2.8.22](https://github.com/c0rejs/playwright/compare/v2.8.21...v2.8.22)
 
 ### 2.8.21 (2024-11-27)
 
@@ -213,7 +213,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.8.20 ... v2.8.21](https://github.com/softvisio-node/playwright/compare/v2.8.20...v2.8.21)
+[Compare with the previous release: v2.8.20 ... v2.8.21](https://github.com/c0rejs/playwright/compare/v2.8.20...v2.8.21)
 
 ### 2.8.20 (2024-11-10)
 
@@ -221,7 +221,7 @@ Other changes:
 
 - chore: chmod files
 
-[Compare with the previous release: v2.8.19 ... v2.8.20](https://github.com/softvisio-node/playwright/compare/v2.8.19...v2.8.20)
+[Compare with the previous release: v2.8.19 ... v2.8.20](https://github.com/c0rejs/playwright/compare/v2.8.19...v2.8.20)
 
 ### 2.8.19 (2024-11-07)
 
@@ -229,7 +229,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.8.18 ... v2.8.19](https://github.com/softvisio-node/playwright/compare/v2.8.18...v2.8.19)
+[Compare with the previous release: v2.8.18 ... v2.8.19](https://github.com/c0rejs/playwright/compare/v2.8.18...v2.8.19)
 
 ### 2.8.18 (2024-10-29)
 
@@ -237,31 +237,31 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v2.8.17 ... v2.8.18](https://github.com/softvisio-node/playwright/compare/v2.8.17...v2.8.18)
+[Compare with the previous release: v2.8.17 ... v2.8.18](https://github.com/c0rejs/playwright/compare/v2.8.17...v2.8.18)
 
 ### 2.8.17 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/playwright/compare/v2.8.16...v2.8.17)
+[Full list of the changes](https://github.com/c0rejs/playwright/compare/v2.8.16...v2.8.17)
 
 ### 2.8.16 (2024-10-17)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/playwright/compare/v2.8.15...v2.8.16)
+[Full list of the changes](https://github.com/c0rejs/playwright/compare/v2.8.15...v2.8.16)
 
 ### 2.8.15 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/playwright/compare/v2.8.14...v2.8.15)
+[Full list of the changes](https://github.com/c0rejs/playwright/compare/v2.8.14...v2.8.15)
 
 ### 2.8.14 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/playwright/compare/v2.8.13...v2.8.14)
+[Full list of the changes](https://github.com/c0rejs/playwright/compare/v2.8.13...v2.8.14)
 
 ### 2.8.13 (2024-10-06)
 
