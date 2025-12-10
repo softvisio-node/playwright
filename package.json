@@ -2,14 +2,14 @@
     "name": "@c0rejs/playwright",
     "version": "2.10.16",
     "description": "Playwright wrapper",
-    "homepage": "https://softvisio-node.github.io/playwright/",
+    "homepage": "https://c0rejs.github.io/playwright/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/playwright/issues",
+        "url": "https://github.com/c0rejs/playwright/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/softvisio-node/playwright.git"
+        "url": "git+https://github.com/c0rejs/playwright.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
