@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.10.17 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [b88bd8c](https://github.com/c0rejs/playwright/commit/b88bd8c), [45e54aa](https://github.com/c0rejs/playwright/commit/45e54aa); 👬 zdm)
+
+- chore(metadata): update package metadata (● [23c3550](https://github.com/c0rejs/playwright/commit/23c3550); 👬 zdm)
+
+Compare with the previous release: [v2.10.16](https://github.com/c0rejs/playwright/compare/v2.10.16...v2.10.17)
+
 ### v2.10.16 (2025-10-26)
 
 **Code refactoring:**
