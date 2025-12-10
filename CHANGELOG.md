@@ -713,7 +713,7 @@ Changed:
 
 Fixed:
 
-- utils moved to @softvisio/utils
+- utils moved to @c0rejs/utils
 
 ### 2.3.4 (2021-07-15)
 
@@ -751,7 +751,7 @@ Changed:
 
 Changed:
 
-- @softvisio/core v4;
+- @c0rejs/core v4;
 - changelog updated;
 
 Added:
@@ -866,7 +866,7 @@ Changed:
 
 Changed:
 
-- @softvisio/globals added;
+- @c0rejs/globals added;
 
 ### 1.0.1 (2021-04-06)
 

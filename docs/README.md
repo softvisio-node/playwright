@@ -7,7 +7,7 @@ You can find original playwright API documentation [here](https://playwright.dev
 ## Install
 
 ```sh
-npm install @softvisio/playwright
+npm install @c0rejs/playwright
 ```
 
 It doesn't installs any browsers by default, so if you need `chromiun` you need to install it manually:
@@ -19,7 +19,7 @@ npx playwright install chromium
 ## Usage
 
 ```javascript
-import playwright from "@softvisio/playwright";
+import playwright from "@c0rejs/playwright";
 ```
 
 ## Class: BrowserType

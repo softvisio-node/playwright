@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> ℹ️ Please, see the full project documentation here:<br><https://softvisio-node.github.io/playwright/>
+> ℹ️ Please, see the full project documentation here:<br><https://c0rejs.github.io/playwright/>
 
 # Introduction
 
@@ -11,7 +11,7 @@ You can find original playwright API documentation [here](https://playwright.dev
 ## Install
 
 ```sh
-npm install @softvisio/playwright
+npm install @c0rejs/playwright
 ```
 
 It doesn't installs any browsers by default, so if you need `chromiun` you need to install it manually:
@@ -23,7 +23,7 @@ npx playwright install chromium
 ## Usage
 
 ```javascript
-import playwright from "@softvisio/playwright";
+import playwright from "@c0rejs/playwright";
 ```
 
 ## Class: BrowserType
