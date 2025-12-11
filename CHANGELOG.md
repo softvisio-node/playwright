@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.10.18 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [cf03c8f](https://github.com/c0rejs/playwright/commit/cf03c8f); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [1f4a74f](https://github.com/c0rejs/playwright/commit/1f4a74f); 👬 zdm)
+
+Compare with the previous release: [v2.10.17](https://github.com/c0rejs/playwright/compare/v2.10.17...v2.10.18)
+
 ### v2.10.17 (2025-12-10)
 
 **Other changes:**
